@@ -1,0 +1,12 @@
+{
+  "description": "My portfolio website",
+  "repo": "https://github.com/AdeptAdrian/portfolio",
+  "owner": {
+    "username": "AdeptAdrian",
+    "email": "adrian.de.coder@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://adeptadrian.github.io"
+  },
+  "proxied": true
+}
